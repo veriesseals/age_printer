@@ -1,4 +1,5 @@
 // Age Printer
+// ----------------------------------------
 
 import java.util.Scanner;
 
